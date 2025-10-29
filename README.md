@@ -58,3 +58,4 @@ Maintainer: DevOps Innovation Team
 ```bash
 export DEPLOY_ENV=production
 ./scripts/deploy.sh"## FAQ" 
+"update" 
